@@ -1,0 +1,21 @@
+packages/tui/test/cli/cmd/tui/sync.test.tsx
+  s_a71bfb097e1cb2::t_82b93e1e191548 28,37
+packages/tui/src/context/sync.tsx
+  s_a71bfb097e1cb2::t_12cfbe83751133 158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "6814d068201529e28354ca08ead83dca4450a13b",
+  "prompts": {},
+  "sessions": {
+    "s_a71bfb097e1cb2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12959c1daffefBVTKObFefKFkV",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    }
+  }
+}
