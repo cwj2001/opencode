@@ -1,0 +1,25 @@
+packages/core/src/session/compaction.ts
+  s_9b0d417039cc1a::t_25773995370109 216
+  s_9b0d417039cc1a::t_38605eed26e1fc 4
+packages/core/test/session-runner.test.ts
+  s_9b0d417039cc1a::t_79ce5715ffd1c0 1207,1214-1216,1221,1223
+  s_9b0d417039cc1a::t_4e29b5019b8cc2 1208-1213,1217-1220,1224-1228
+  s_9b0d417039cc1a::t_5afcd51f2850a6 65,80,331
+  s_9b0d417039cc1a::t_6998c1bf50877d 1222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.13",
+  "base_commit_sha": "c8a6adf8a40a14fa2eb68217e3fdc2228c036e5a",
+  "prompts": {},
+  "sessions": {
+    "s_9b0d417039cc1a": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0fe48e340ffeKGpURw9sXc1Zlt",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    }
+  }
+}
