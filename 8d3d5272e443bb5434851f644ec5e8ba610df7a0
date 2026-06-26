@@ -1,0 +1,28 @@
+packages/tui/src/component/dialog-session-list.tsx
+  s_a71bfb097e1cb2::t_8f6e3b46310723 21-32,48-54,59-61,67,131,162
+  s_a71bfb097e1cb2::t_10505cd8612b17 300
+packages/tui/test/cli/cmd/tui/sync-fixture.tsx
+  s_a71bfb097e1cb2::t_8e702019c4a80c 9,52-56
+packages/tui/test/cli/cmd/tui/sync.test.tsx
+  s_a71bfb097e1cb2::t_6bf02f393b0e5c 28,37
+packages/tui/test/component/dialog-session-list.test.ts
+  s_a71bfb097e1cb2::t_6bf02f393b0e5c 1-21
+packages/tui/src/context/sync.tsx
+  s_a71bfb097e1cb2::t_8f6e3b46310723 158
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.8",
+  "base_commit_sha": "8d3d5272e443bb5434851f644ec5e8ba610df7a0",
+  "prompts": {},
+  "sessions": {
+    "s_a71bfb097e1cb2": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12959c1daffefBVTKObFefKFkV",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    }
+  }
+}
