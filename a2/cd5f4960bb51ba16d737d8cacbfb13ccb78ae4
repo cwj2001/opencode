@@ -1,0 +1,51 @@
+packages/core/src/session/compaction.ts
+  s_ae17ccdad5db2c::t_fa9706018a8b21 83,87,194,199,205,235,244-245
+  s_ae17ccdad5db2c::t_349d77a44d2bf3 80-81,84-86,185-190,193,196,249-252
+  s_3e163daffac1d4::t_252b3155a61479 82
+packages/core/test/session-runner.test.ts
+  s_ae17ccdad5db2c::t_6537c29fde601a 111-114,120,1276-1281,1283-1294,1297-1299,1311-1312
+  s_ae17ccdad5db2c::t_2cee94597fb36c 1263-1265,1267,1273-1274,1300-1305
+  s_ae17ccdad5db2c::t_bf36f490be8e46 1295-1296,1306
+  s_ae17ccdad5db2c::t_25c18e557a93b5 56,115-119
+  s_ae17ccdad5db2c::t_5a2dd6eea5f1d8 228-241,244-295,319-340
+  s_ae17ccdad5db2c::t_44afeff5278a42 1266,1268-1272,1275,1282
+  s_ae17ccdad5db2c::t_c8b2ca18ec5079 413-425,433-434
+  s_ae17ccdad5db2c::t_4166dd25996c8b 1307-1310,1314-1337
+  s_2a8f0278bdd505::t_c2d9b3e3efafce 341,1313
+packages/core/src/session/runner/llm.ts
+  s_ae17ccdad5db2c::t_4c4240830a0823 147-153,158,167-168,180,218-241,244-251,254,309-321,395-400,407,420-425
+  s_ae17ccdad5db2c::t_c75dc5ede94d45 242-243
+  s_ae17ccdad5db2c::t_7fa38907306461 387-392,394
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "a2cd5f4960bb51ba16d737d8cacbfb13ccb78ae4",
+  "prompts": {},
+  "sessions": {
+    "s_2a8f0278bdd505": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0f5631495ffeP44Z3Mi7lEkHeN",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    },
+    "s_3e163daffac1d4": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_12e68bd4dffe4Yx7QjZgZvpEe9",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    },
+    "s_ae17ccdad5db2c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0f58f5a89ffeB9ubm9rkHHEe6P",
+        "model": "gpt-5.5"
+      },
+      "human_author": "weijia2.chen <weijia2.chen@ly.com>"
+    }
+  }
+}
